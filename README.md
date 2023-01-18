@@ -9,3 +9,5 @@ I'm ~~gone~~
 
 Please conduct your search using [this link](http://www.google.com).
 
+* This is me making a change to ensure I can see it in RStudio
+
